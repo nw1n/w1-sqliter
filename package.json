@@ -7,8 +7,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nw1n/w1-sqliter.git"
+  },
   "keywords": [],
-  "author": "",
+  "author": "nw1n",
   "license": "ISC",
   "dependencies": {
     "sqlite3": "^5.1.7"
