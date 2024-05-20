@@ -12,7 +12,7 @@
     "url": "git+https://github.com/nw1n/w1-sqliter.git"
   },
   "keywords": [],
-  "author": "nw1n",
+  "author": "nw1n <skyisbluetoo@proton.me>",
   "license": "ISC",
   "dependencies": {
     "sqlite3": "^5.1.7"

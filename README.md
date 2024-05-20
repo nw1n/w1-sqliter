@@ -13,7 +13,7 @@ npm install w1-sqliter
 ### Example usage
 
 ```javascript
-import Sqliter from 'sqliter'
+import sqliter from 'w1-sqliter'
 import path from 'path'
 import { dirname } from 'path'
 import { fileURLToPath } from 'url'
