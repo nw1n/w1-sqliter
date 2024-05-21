@@ -23,7 +23,7 @@ const dbFilePath = path.resolve(dirname(fileURLToPath(import.meta.url)), 'test.d
 main()
 
 async function main() {
-    const db = sqliter.getInstance()
+    const db = new sqliter()
     await db.init(dbFilePath)
 
     // create table if not exists with auto increment primary key
